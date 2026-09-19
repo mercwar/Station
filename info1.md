@@ -58,3 +58,5 @@ The AVIS News Dashboard serves as the automated distribution feed node for the m
 ## 2. RRU-AI Search (https://byethost3.com)
 The RRU-AI Search Portal provides a direct inquiry framework for scanning system files. Rather than executing costly database table joins, this module searches directly across local text structures and flat data arrays. Results are populated into clean layout rows, utilizing a high-contrast button matrix that respects the platform's five-state interface cycle to prevent processing lockups or accidental multiple submissions.
 
+
+[Station](README.md) [NEXT](info2.md) 
