@@ -7,16 +7,12 @@
 </a>
 
 
-# ✨ Cyborg Station – Transparent Link Portal Engine
+# ✨ Cyborg Station Link Portal Engine
+
+
+
 
 ## 🚀 Overview
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
-<img 
-    src="station.png" 
-    alt="Mercwar Constellation" 
-    style="width:100%; height:auto;"
-/>
-</a>
 Cyborg Station is the **command center** of the MercWar ecosystem. It unifies portals, applications, and repositories into a single transparent interface styled with **black‑glass containers and gold matrix highlights**. The Station transforms scattered resources into a cohesive navigation hub, making exploration intuitive and professional.
 
 ---
@@ -29,6 +25,18 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 - **Responsive Design** – adaptive grid layouts for desktop and mobile  
 
 ---
+
+#### "<i>And now... the OFFICIAL Station Readme</i>!"
+
+###### *"<i>I am CVBGOD and I have given it to you</i>!"*
+
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="station.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 ## 📂 Sections
 - **Hubs** – Root portals and repository browsers  
