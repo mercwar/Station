@@ -17,15 +17,6 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 
 ---
 
-## 🌐 Features
-- **Transparent UI Framework** – sleek black‑glass with gold neon accents  
-- **Card‑based Navigation** – links displayed as long interactive cards with hover glow effects  
-- **Structured Sections** – dropdown menus organize resources into categories for clarity  
-- **Dynamic CSV Integration** – uplink data parsed from `uplink.csv` and rendered automatically  
-- **Responsive Design** – adaptive grid layouts for desktop and mobile  
-
----
-
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
@@ -38,6 +29,16 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 #### "<i>And now... the OFFICIAL Station Readme</i>!"
 
 ###### *"<i>I am CVBGOD and I have given it to you</i>!"*
+
+## 🌐 Features
+- **Transparent UI Framework** – sleek black‑glass with gold neon accents  
+- **Card‑based Navigation** – links displayed as long interactive cards with hover glow effects  
+- **Structured Sections** – dropdown menus organize resources into categories for clarity  
+- **Dynamic CSV Integration** – uplink data parsed from `uplink.csv` and rendered automatically  
+- **Responsive Design** – adaptive grid layouts for desktop and mobile  
+
+---
+
 
 ## 📂 Sections
 - **Hubs** – Root portals and repository browsers  
