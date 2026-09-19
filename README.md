@@ -32,7 +32,7 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
-    src="station.png" 
+    src="cs4" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
 />
@@ -49,6 +49,15 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 ---
 
 ## 🛠️ Technology
+
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="station.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 - **Frontend**: HTML, CSS (transparent glass theme), JavaScript (dynamic CSV parsing)  
 - **Data Source**: `uplink.csv` for structured link management  
 - **Design**: Long card layout with blur effects, neon borders, and hover animations  
