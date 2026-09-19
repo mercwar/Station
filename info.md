@@ -79,3 +79,5 @@ Each button features high-contrast borders and immediate illumination responses.
 ### 3. MWSG Module (https://mercwar01.byethost3.com/MWSG/)
 
 Operating on the primary server cluster, the **MWSG Module** serves as a vital cross-routing gate within the network layout. This module interfaces directly with core configuration scripts, functioning as a bridge between the dynamic user dashboards and the underlying data vaults. It ensures that automated background communications remain fully aligned with the active graphical state displayed to the human operator.
+
+[Station](README.md)  [NEXT](info1.md) 
