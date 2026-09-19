@@ -13,6 +13,8 @@
 
 Cyborg Station is the **command center** of the MercWar ecosystem. It unifies portals, applications, and repositories into a single transparent interface styled with **black‑glass containers and gold matrix highlights**. The Station transforms scattered resources into a cohesive navigation hub, making exploration intuitive and professional. There is a <i>Mini-Cron</i> for  Avis-Datalake, Startgate and Nexus  that gives you fast access to all of the Stars in one Hub. 
 
+For more information about the Mercwar Matrix GO [Here](info.md)
+
 ---
 
 
