@@ -1,4 +1,4 @@
-[Station] (README.md) [PREV](info1.md)  [NEXT](info2.md) 
+[Station](README.md) [NEXT](info2.md) 
 
 ## The Mercwar Unified Network Architecture## Vol. II: Data Ingestion Layers and User-End Dashboards
 ------------------------------
