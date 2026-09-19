@@ -26,9 +26,6 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 
 ---
 
-#### "<i>And now... the OFFICIAL Station Readme</i>!"
-
-###### *"<i>I am CVBGOD and I have given it to you</i>!"*
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
@@ -37,6 +34,10 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
     style="width:100%; height:auto;"
 />
 </a>
+
+#### "<i>And now... the OFFICIAL Station Readme</i>!"
+
+###### *"<i>I am CVBGOD and I have given it to you</i>!"*
 
 ## 📂 Sections
 - **Hubs** – Root portals and repository browsers  
