@@ -11,7 +11,7 @@
 
 # 🌠 Cyborg Station Link Portal Engine
 
-Cyborg Station is the **command center** of the MercWar ecosystem. It unifies portals, applications, and repositories into a single transparent interface styled with **black‑glass containers and gold matrix highlights**. The Station transforms scattered resources into a cohesive navigation hub, making exploration intuitive and professional. There is a <i>Mini-Cron</i> for NEXUS programming to quickly access the Gateway and Startgate.
+Cyborg Station is the **command center** of the MercWar ecosystem. It unifies portals, applications, and repositories into a single transparent interface styled with **black‑glass containers and gold matrix highlights**. The Station transforms scattered resources into a cohesive navigation hub, making exploration intuitive and professional. There is a <i>Mini-Cron</i> for NEXUS to quickly access the Gateway and Startgate.
 
 ---
 
