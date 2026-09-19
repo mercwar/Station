@@ -1,4 +1,4 @@
-[Station](README.md) [PREV](info1.md)  [NEXT](info2.md) 
+[Station](README.md) [PREV](info1.md)  [NEXT](info3.md) 
 
 ## The Mercwar Unified Network Architecture## Vol. III: The Application Ecosystem and Native Execution Engines
 ------------------------------
