@@ -54,7 +54,7 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 
 <a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">
 <img 
-    src="station.png" 
+    src="cs12.jpg" 
     alt="Mercwar Constellation" 
     style="width:100%; height:auto;"
 />
