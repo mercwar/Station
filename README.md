@@ -16,7 +16,7 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 ---
 
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">
 <img 
     src="cs4.png" 
     alt="Mercwar Constellation" 
@@ -24,7 +24,9 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 />
 </a>
 
-#### "<i>And now... the OFFICIAL Station Readme</i>!"
+### 🌈 Cyborg <a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">Station</a>
+
+#### 💥 "<i>And now... the OFFICIAL Station Readme</i>!"
 
 ###### *"<i>I am CVBGOD and I have given it to you</i>!"*
 
@@ -50,7 +52,7 @@ Cyborg Station is the **command center** of the MercWar ecosystem. It unifies po
 
 ## 🛠️ Technology
 
-<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<a target="_self" title="CLICK HERE to ENTER the Station FREE!" href="https://cron.iblogger.org/Station">
 <img 
     src="station.png" 
     alt="Mercwar Constellation" 
