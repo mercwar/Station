@@ -30,4 +30,4 @@ The online and local footprint of the Mercwar network is built explicitly to ens
 
 By distributing across **mercwar01.byethost3.com**, **cron.iblogger.org**, and **mercwar.github.io**, the platform achieves complete architectural independence, insulating subsystems from cross‑contamination and ensuring immediate runtime performance on low‑consumption hardware.  
 
-
+[Station](README.md)  [NEXT](info1.md) 
