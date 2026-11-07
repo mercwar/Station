@@ -11,7 +11,6 @@
 # 🌌 The Mercwar Unified Network Architecture  
 ## Vol. I: Functional Hubs and Gateways  
 
----
 
 ## ✨ Abstract
 The contemporary software deployment paradigm is increasingly defined by radical platform centralization, heavy reliance on opaque third‑party cloud engines, and abstraction layers that distance the human operator from direct machine oversight. In absolute technical and philosophical opposition to this standard stands the **Mercwar Network Matrix**, a meticulously partitioned computing environment architected by the developer known as **Joetron**.  
@@ -31,7 +30,4 @@ The online and local footprint of the Mercwar network is built explicitly to ens
 
 By distributing across **mercwar01.byethost3.com**, **cron.iblogger.org**, and **mercwar.github.io**, the platform achieves complete architectural independence, insulating subsystems from cross‑contamination and ensuring immediate runtime performance on low‑consumption hardware.  
 
----
-
-## 🔹 Module I: Central Core Systems (Hubs)
 
